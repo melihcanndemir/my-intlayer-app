@@ -5,7 +5,7 @@ This template provides a robust foundation for scalable, multilingual web applic
 
 ---
 
-![Intlayer Hero](./intlayer.png)
+![Intlayer Hero](./public/intlayer.png)
 
 ## 🚀 Features
 
