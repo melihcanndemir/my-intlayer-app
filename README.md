@@ -48,7 +48,7 @@ my-intlayer-app/
 
 ```sh
 git clone https://github.com/melihcanndemir/my-intlayer-app.git
-cd intlayer-react-vite-starter/my-intlayer-app
+cd my-intlayer-app
 ```
 
 ### 2. Install dependencies
