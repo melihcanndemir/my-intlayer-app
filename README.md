@@ -5,6 +5,8 @@ This template provides a robust foundation for scalable, multilingual web applic
 
 ---
 
+![Intlayer Hero](./intlayer.png)
+
 ## 🚀 Features
 
 - **React 18+** with functional components and hooks
